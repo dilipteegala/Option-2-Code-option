@@ -1,11 +1,10 @@
 # [Argon Dashboard](https://www.creative-tim.com/product/argon-dashboard)
 
+![alt text]( https://github.com/dilipteegala/Option-2-Code-option/blob/master/assets/img/sticky%20menu%20right.JPG)
+![alt text]( https://github.com/dilipteegala/Option-2-Code-option/blob/master/assets/img/password%20vallidation.JPG)
+![alt text]( https://github.com/dilipteegala/Option-2-Code-option/blob/master/assets/img/password%20vallidation%20sucess.JPG)
 
-    https://github.com/dilipteegala/Option-2-Code-option/blob/master/assets/img/sticky%20menu%20right.JPG
-    
-    https://github.com/dilipteegala/Option-2-Code-option/blob/master/assets/img/password%20vallidation.JPG
-    
-    https://github.com/dilipteegala/Option-2-Code-option/blob/master/assets/img/password%20vallidation%20sucess.JPG
+
 ![Product Gif](https://s3.amazonaws.com/creativetim_bucket/products/96/original/opt_ad_thumbnail.jpg)
 
 Start your development with a Dashboard for Bootstrap 4. It is open source, free and it features many components that can help you create amazing websites.
@@ -89,32 +88,32 @@ Within the download you'll find the following directories and files:
 
 ```
 argon/
-├── CHANGELOG.md
-├── LICENSE.md
-├── README.md
-├── assets/
-  ├── css/
-  │   ├── argon.css
-  │   ├── argon.css.map
-  │   ├── argon.min.css
-  │   ├── argon.min.css.map
-  └── img/
-  │   ├── argon/
-  │   ├── brand/
-  │   ├── icons/
-  │   ├── ill/
-  └── js/
-  │   ├── argon.js
-  │   └── argon.min.js
-  └── scss/
-  │   ├── bootstrap/
-  │   ├── core/
-  │   ├── custom/
-  │   ├── argon.scss
-  └── vendor/
-      ├── bootstrap/
-      ├── jquery/
-      ├── ...
+â”œâ”€â”€ CHANGELOG.md
+â”œâ”€â”€ LICENSE.md
+â”œâ”€â”€ README.md
+â”œâ”€â”€ assets/
+  â”œâ”€â”€ css/
+  â”‚   â”œâ”€â”€ argon.css
+  â”‚   â”œâ”€â”€ argon.css.map
+  â”‚   â”œâ”€â”€ argon.min.css
+  â”‚   â”œâ”€â”€ argon.min.css.map
+  â””â”€â”€ img/
+  â”‚   â”œâ”€â”€ argon/
+  â”‚   â”œâ”€â”€ brand/
+  â”‚   â”œâ”€â”€ icons/
+  â”‚   â”œâ”€â”€ ill/
+  â””â”€â”€ js/
+  â”‚   â”œâ”€â”€ argon.js
+  â”‚   â””â”€â”€ argon.min.js
+  â””â”€â”€ scss/
+  â”‚   â”œâ”€â”€ bootstrap/
+  â”‚   â”œâ”€â”€ core/
+  â”‚   â”œâ”€â”€ custom/
+  â”‚   â”œâ”€â”€ argon.scss
+  â””â”€â”€ vendor/
+      â”œâ”€â”€ bootstrap/
+      â”œâ”€â”€ jquery/
+      â”œâ”€â”€ ...
 
 ```
 
@@ -165,4 +164,5 @@ If you have questions or need help integrating the product please [contact us](h
 - Dribbble: <https://dribbble.com/creativetim>
 - Google+: <https://plus.google.com/+CreativetimPage>
 - Instagram: <https://www.instagram.com/CreativeTimOfficial>
+
 
